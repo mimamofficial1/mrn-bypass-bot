@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "mrn-officialx-bypass-protect-bot.up.railway.app/$1"
+    }
+  ]
+}
